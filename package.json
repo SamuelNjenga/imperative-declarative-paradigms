@@ -1,0 +1,14 @@
+{
+  "name": "imperative-declarative",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index_one.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Njenga",
+  "license": "ISC",
+  "dependencies": {
+    "@7urtle/lambda": "^1.4.1"
+  }
+}
